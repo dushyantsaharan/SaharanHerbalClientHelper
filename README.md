@@ -16,8 +16,6 @@ Userscripts to add functionality to imcbussiness.com.
 2. Get information or install:
 	* Learn more about the userscript by clicking on the named link. You will be taken to the specific wiki page.
 	* Install a script directly from GitHub by clicking on the "install" link in the table below.
-	* Install a script from [GreasyFork](https://greasyfork.org/en/users/24847-mottie) (GF) from the userscript site page
-	* Or, install the scripts from [OpenUserJS](https://openuserjs.org/users/Mottie/scripts) (OU).<br><br>
 
 	| Userscript Wiki                        | Direct<br>Install  | Created    | Updated    |
 	|----------------------------------------|:------------------:|:----------:|:----------:|
@@ -51,24 +49,3 @@ Each individual userscript's change log is contained on its individual wiki page
 
 Please report any userscript issues within this repository's [issue section](https://github.com/Mottie/GitHub-userscripts/issues). Greasyfork messages are also received, but not as easily tracked. Thanks!
 
-## Contributions
-
-If you would like to contribute to this repository, please...
-
-1. Fork
-2. Make changes (please read the [contribution guidelines](./CONTRIBUTING.md) and abide by them)
-3. Create a pull request!
-
-Thanks to all that have [contributed](./AUTHORS) so far!
-
-## Other userscripts not hosted here:
-
-* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script)
-	* [Github Monospace Font Toggle](https://greasyfork.org/en/scripts/18787-github-monospace-font-toggle) (also part of GitHub Dark Script)
-	* [GitHub Diff File Toggle](https://greasyfork.org/en/scripts/18788-github-diff-file-toggle) (also part of GitHub Dark Script)
-	* [GitHub Toggle Code Wrap](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) (also part of GitHub Dark Script)
-* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis)
-* [GitHub Make Tooltips](https://greasyfork.org/en/scripts/22194)
-* [Bitbucket userscripts](https://bitbucket.org/mottie/bitbucket-userscripts)
-* [GitLab userscript](https://gitlab.com/Mottie/GitLab-userscripts)
-* [Miscellaneous userscripts](https://github.com/Mottie/Misc-userscripts)
