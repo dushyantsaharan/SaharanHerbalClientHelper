@@ -160,13 +160,14 @@
             var cash = document.getElementById("cash").value;
             var credit = document.getElementById("credit").value;
             var ref = document.getElementById("ref").value;
-
+            var client_code = document.getElementById("MainContent_myForm_txtCode1").value;
             $.ajax({
                 url: 'http://client.saharanherbal.com/fnInvSave.php',
                 async: false,
                 type: 'POST',
                 data: ({
                     'save':'yes',
+                    'client_code':client_code,
                     'no':no,
                     'ref':ref,
                     'ref_type':ref_type,
