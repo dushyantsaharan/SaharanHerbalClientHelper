@@ -4,14 +4,10 @@ Userscripts to add functionality to imcbussiness.com.
 
 ## Installation
 
-1. Make sure you have user scripts enabled in your browser (these instructions refer to the latest versions of the browser):
+1. Make sure you have the following extensions installed in your Google Chrome (these instructions refer to the latest versions of the browser):
 
-	* Firefox - install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
-	* Chrome - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
-	* Opera - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera) or [Violent Monkey](https://addons.opera.com/en/extensions/details/violent-monkey/).
-	* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
-	* Dolphin - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin).
-	* UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
+	* Install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
+	* Install [CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi).
 
 2. Get information or install:
 	* Learn more about the userscript by clicking on the named link. You will be taken to the specific wiki page.
