@@ -1,6 +1,6 @@
-# GitHub userscripts [![tag](https://img.shields.io/github/tag/Mottie/GitHub-userscripts.svg)](https://github.com/Mottie/GitHub-userscripts/tags) [![Mentioned in Awesome Userscripts](https://awesome.re/mentioned-badge.svg)](https://github.com/brunocvcunha/awesome-userscripts#readme)
+# Saharan Herbal Client Helper userscripts 
 
-Userscripts to add functionality to GitHub.
+Userscripts to add functionality to imcbussiness.com.
 
 ## Installation
 
