@@ -6,7 +6,7 @@ Userscripts to add functionality to imcbussiness.com.
 
 1. Make sure you have the following extensions installed in your Google Chrome (these instructions refer to the latest versions of the browser):
 
-	* Install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
+	* Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 	* Install [CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi).
 
 2. Get information or install:
