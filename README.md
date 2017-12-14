@@ -37,15 +37,3 @@ Userscripts to add functionality to imcbussiness.com.
 [csw-raw]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-custom-hotkeys.user.js
 
 
-[ico]: https://raw.githubusercontent.com/Mottie/Octopatcher/master/src/images/icon16.png
-
-## Updating
-
-Userscripts are set up to automatically update. You can check for updates from within the Greasemonkey or Tampermonkey menu, or click on the install link again to get the update.
-
-Each individual userscript's change log is contained on its individual wiki page.
-
-## Issues
-
-Please report any userscript issues within this repository's [issue section](https://github.com/Mottie/GitHub-userscripts/issues). Greasyfork messages are also received, but not as easily tracked. Thanks!
-
