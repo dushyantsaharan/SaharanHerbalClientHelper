@@ -19,12 +19,12 @@ Userscripts to add functionality to imcbussiness.com.
 	* Install a script from [GreasyFork](https://greasyfork.org/en/users/24847-mottie) (GF) from the userscript site page
 	* Or, install the scripts from [OpenUserJS](https://openuserjs.org/users/Mottie/scripts) (OU).<br><br>
 
-	| Userscript Wiki                        | ![][ico] | Direct<br>Install | Sites                 | Created    | Updated    |
-	|----------------------------------------|:---:|:------------------:|:-------------------------:|:----------:|:----------:|
-	| [Get IMC Invoice Data][ccs-wiki]       |     | [install][ccs-raw] | [GF][ccs-gf] [OU][ccs-ou] | 2017.12.14 | 2017.12.14 |
-	| [IMC Header Change][cfd-wiki]          |     | [install][cfd-raw] | [GF][cfd-gf] [OU][cfd-ou] | 2017.12.14 | 2017.12.14 |
-	| [Save Registration Data][cgl-wiki]     |     | [install][cgl-raw] | [GF][cgl-gf] [OU][cgl-ou] | 2017.12.14 | 2017.12.14 |
-	| [Sync Product List][csw-wiki]          |     | [install][csw-raw] | [GF][csw-gf] [OU][csw-ou] | 2017.12.14 | 2017.12.14 |
+	| Userscript Wiki                        | Direct<br>Install  | Created    | Updated    |
+	|----------------------------------------|:------------------:|:----------:|:----------:|
+	| [Get IMC Invoice Data][ccs-wiki]       | [install][ccs-raw] | 2017.12.14 | 2017.12.14 |
+	| [IMC Header Change][cfd-wiki]          | [install][cfd-raw] | 2017.12.14 | 2017.12.14 |
+	| [Save Registration Data][cgl-wiki]     | [install][cgl-raw] | 2017.12.14 | 2017.12.14 |
+	| [Sync Product List][csw-wiki]          | [install][csw-raw] | 2017.12.14 | 2017.12.14 |
 	
 
 [ccs-wiki]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors
@@ -36,7 +36,7 @@ Userscripts to add functionality to imcbussiness.com.
 [ccs-raw]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-colors.user.js
 [cfd-raw]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-folding.user.js
 [cgl-raw]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-guides.user.js
-[chk-raw]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-custom-hotkeys.user.js
+[csw-raw]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-custom-hotkeys.user.js
 
 
 [ico]: https://raw.githubusercontent.com/Mottie/Octopatcher/master/src/images/icon16.png
