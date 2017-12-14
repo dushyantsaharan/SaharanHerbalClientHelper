@@ -50,7 +50,7 @@
     $("#MainContent_myForm_pnlFooter1 .form-horizontal").append(markuptabledata);
 
     var no = document.getElementById("MainContent_myForm_txtCinvoice_no").value;
-    $.get("http://client.saharanherbal.com/fnGetData.php?client_code="+client_code+"no="+no, function(data)
+    $.get("http://client.saharanherbal.com/fnGetData.php?client_code="+client_code+"inv="+no, function(data)
     {
         var response = JSON.parse(data);
         if (response.status === "saved")
