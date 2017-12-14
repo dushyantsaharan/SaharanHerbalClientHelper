@@ -19,7 +19,7 @@ Userscripts to add functionality to imcbussiness.com.
 
 
 	| Userscript Wiki                        | Direct<br>Install   | Created    | Updated    |
-	|----------------------------------------|:----------------- -:|:----------:|:----------:|
+	|----------------------------------------|:-------------------:|:----------:|:----------:|
 	| [Get IMC Invoice Data][ccs-wiki]       | [install][ccs-wiki] | 2017.12.14 | 2017.12.14 |
 	| [IMC Header Change][cfd-wiki]          | [install][cfd-wiki] | 2017.12.14 | 2017.12.14 |
 	| [Save Registration Data][cgl-wiki]     | [install][cgl-wiki] | 2017.12.14 | 2017.12.14 |
